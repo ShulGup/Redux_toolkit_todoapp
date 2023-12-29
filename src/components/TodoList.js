@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { toggleTodo, deleteTask, updateCompleted } from "../reducer/todoSlice";
+import { deleteTask, updateCompleted } from "../reducer/todoSlice";
 import { UpdateTodo } from "./Editlist";
 import { loadTask, updateTask } from "../reducer/todoSlice";
 
