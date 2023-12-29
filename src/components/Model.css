@@ -1,0 +1,7 @@
+.my-styled-component {
+    background-color: black;
+    color: white;
+    z-index: 100;
+    position: relative;
+    opacity: 1;
+  }
